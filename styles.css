@@ -15,10 +15,10 @@ header {
 
 nav {
     background: black;
-    text-transform: uppercase;
+    <!--text-transform: uppercase;-->
     line-height: 2.5;
     color: #fff;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 nav ul {
