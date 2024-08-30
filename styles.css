@@ -47,6 +47,11 @@ nav ul li a {
 
 main {
     padding: 1rem 0;
+    text-align: left;
+}
+
+main1 {
+    padding: 1rem 0;
     text-align: justify;
 }
 
