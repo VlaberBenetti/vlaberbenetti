@@ -19,7 +19,7 @@ nav {
     <!--text-transform: uppercase;-->
     line-height: 2.5;
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 nav ul {
@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 .container {
-    width: 100%;
+    width: 95%;
     max-width: 1024px;
     margin: 0 auto;
 }
